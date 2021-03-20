@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30024" started-at="2021-03-20T12:08:37 EDT" finished-at="2021-03-20T12:09:07 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30024" started-at="2021-03-20T12:08:37 EDT" finished-at="2021-03-20T12:09:07 EDT">
+      <class name="tests.LoginParallelTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LoginParallelTest@e320068]" name="setUp" is-config="true" duration-ms="8645" started-at="2021-03-20T12:08:38 EDT" finished-at="2021-03-20T12:08:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createContactsTest(java.lang.String, java.lang.String)[pri:2, instance:tests.LoginParallelTest@e320068]" name="createContactsTest" duration-ms="654" started-at="2021-03-20T12:08:46 EDT" data-provider="getCredentialsTestData" finished-at="2021-03-20T12:08:47 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[boblerry4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bora.187875]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginParallelTest@e320068]" name="tearDown" is-config="true" duration-ms="97" started-at="2021-03-20T12:08:47 EDT" finished-at="2021-03-20T12:08:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LoginParallelTest@e320068]" name="setUp" is-config="true" duration-ms="8137" started-at="2021-03-20T12:08:47 EDT" finished-at="2021-03-20T12:08:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createContactsTest(java.lang.String, java.lang.String)[pri:2, instance:tests.LoginParallelTest@e320068]" name="createContactsTest" duration-ms="494" started-at="2021-03-20T12:08:55 EDT" data-provider="getCredentialsTestData" finished-at="2021-03-20T12:08:56 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1234566]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginParallelTest@e320068]" name="tearDown" is-config="true" duration-ms="93" started-at="2021-03-20T12:08:56 EDT" finished-at="2021-03-20T12:08:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LoginParallelTest@e320068]" name="setUp" is-config="true" duration-ms="10863" started-at="2021-03-20T12:08:56 EDT" finished-at="2021-03-20T12:09:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createContactsTest(java.lang.String, java.lang.String)[pri:2, instance:tests.LoginParallelTest@e320068]" name="createContactsTest" duration-ms="550" started-at="2021-03-20T12:09:07 EDT" data-provider="getCredentialsTestData" finished-at="2021-03-20T12:09:07 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ilhan34@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test7876546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginParallelTest@e320068]" name="tearDown" is-config="true" duration-ms="99" started-at="2021-03-20T12:09:07 EDT" finished-at="2021-03-20T12:09:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginParallelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

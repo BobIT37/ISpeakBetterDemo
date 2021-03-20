@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests.LoginPageTest" duration-ms="8900" started-at="2021-03-20T16:44:12Z" finished-at="2021-03-20T16:44:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8900" started-at="2021-03-20T16:44:12Z" finished-at="2021-03-20T16:44:21Z">
+      <class name="tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LoginPageTest@3b81a1bc]" name="setUp" is-config="true" duration-ms="8781" started-at="2021-03-20T12:44:12Z" finished-at="2021-03-20T12:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPageTitle()[pri:0, instance:tests.LoginPageTest@3b81a1bc]" name="testPageTitle" duration-ms="15" started-at="2021-03-20T12:44:21Z" description="I Speak Better Main Page title" finished-at="2021-03-20T12:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginPageTest@3b81a1bc]" name="tearDown" is-config="true" duration-ms="95" started-at="2021-03-20T12:44:21Z" finished-at="2021-03-20T12:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.LoginPageTest -->
+</testng-results>
